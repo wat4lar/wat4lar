@@ -1,5 +1,5 @@
 - 👋 Hi, my name's Sergii. I live, work and study in Ukraine. 
-- 👀 I'm a former tooling design engineer who's switching to front-web development.
+- 👀 I'm a former tooling design engineer who's switching to front-end development.
 - 🌱 Achievements of the previous year 2022: went through  Hillel Front-end Dev Course and also finished SoftServe React Marathon. Currently learning Vuejs which has been my main target for now. 
 - 💞️ I'm keen on learning and am dying to get my hands dirty by building some amazing projects.
 
